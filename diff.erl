@@ -182,7 +182,7 @@ apply_Dx_trig([
         NTokens =
         [
         F1, Open, Var, Close, Arrow,
-           {integer,1,-CVal}, Times, Math, Colon, {atom, 1, cos},
+           {integer,1,-CVal}, Times, Math, Colon, {atom, 1, sin},
            Open, Var, Close,
         End, Period
         ],
